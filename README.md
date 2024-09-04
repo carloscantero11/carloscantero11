@@ -12,11 +12,11 @@
 <br/>
 <br/>
 
-- 🔭 En busqueda de trabajo.
+- 🔭 En búsqueda de trabajo.
 - 🌱 Actualmente estoy enfocado en realizar proyectos.
 - 💼 Soy ingeniero de computación.
-- 💬 Preguntame sobre Java y Python.
-- 📫 Puedes contactarme en: carlitos.mcs18@gmail.com.
+- 💬 Pregúntame sobre Java o Python.
+- 📫 Puedes contactarme en: carlitos.mcs18@gmail.com
 - 💡 "Si puedes imaginarlo, puedes programarlo".
 
 <br/>
@@ -28,7 +28,7 @@
 [![Estadísticas de GitHub de tu usuario](https://github-readme-stats.vercel.app/api?username=carloscantero11&show_icons=true&theme=radical)](https://github.com/carloscantero11)
 
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y Herramientas
 Aquí hay algunas tecnologías y herramientas con las que he estado trabajando recientemente:
 
 ```python
