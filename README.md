@@ -1,4 +1,4 @@
-# 👋 ¡Hola! 👉 Soy *Carlos Cantero*
+# 👋 ¡Hola! 👉 Soy *Carlos Cantero* ☕
 
 <img src="https://i.imgur.com/EPiZtcd.png">
 
