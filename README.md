@@ -1,35 +1,35 @@
-# 👋 ¡Hola! 👉 Soy *Carlos Cantero* ☕
+# 👋 Hello! 👉 I'm *Carlos Cantero* ☕
 
 <img src="https://i.imgur.com/EPiZtcd.png">
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
 <a target="_blank" align="center">
-<img src="https://img.freepik.com/foto-gratis/juego-personajes-anime-esteticos_23-2151560698.jpg?t=st=1725485098~exp=1725488698~hmac=e75b2c8544a698a712cfa680cdade566471b01cea0ff486211f64521fd45bf5a&w=996" alt="Imagen" align="right"  height="300" width="400">
+<img src="https://img.freepik.com/foto-gratis/juego-personajes-anime-esteticos_23-2151560698.jpg?t=st=1725485098~exp=1725488698~hmac=e75b2c8544a698a712cfa680cdade566471b01cea0ff486211f64521fd45bf5a&w=996" alt="Image" align="right"  height="300" width="400">
 </a>
 
 <br/>
 <br/>
 <br/>
 
-- 🔭 En búsqueda de trabajo.
-- 🌱 Actualmente estoy enfocado en realizar proyectos.
-- 💼 Soy ingeniero de computación.
-- 💬 Pregúntame sobre Java o Python.
-- 📫 Puedes contactarme en: carlitos.mcs18@gmail.com
-- 💡 "Si puedes imaginarlo, puedes programarlo".
+- 🔭 Looking for a job.
+- 🌱 Currently focused on developing projects.
+- 💼 I am a computer engineer.
+- 💬 Ask me about Java or Python.
+- 📫 You can contact me at: carlitos.mcs18@gmail.com
+- 💡 "If you can imagine it, you can program it".
 
 <br/>
 <br/>
 
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
-[![Estadísticas de GitHub de tu usuario](https://github-readme-stats.vercel.app/api?username=carloscantero11&show_icons=true&theme=radical)](https://github.com/carloscantero11)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloscantero11&show_icons=true&theme=radical)](https://github.com/carloscantero11)
 
 
-## 🛠️ Tecnologías y Herramientas
-Aquí hay algunas tecnologías y herramientas con las que he estado trabajando recientemente:
+## 🛠️ Technologies and Tools
+Here are some technologies and tools I've been working with recently:
 
 ```python
 languages = [
@@ -66,10 +66,8 @@ tools = [
 <a style="margin-left: 10px;"  target="_blank" href="https://github.com/carloscantero11">
 <img src="https://img.icons8.com/?size=100&id=H7MxfKOr1WFr&format=png&color=000000" height="57" width="57"></a>
 
-
-
 ---
-**¡Gracias por visitar mi perfil!** 📌
+**I hope you find something interesting.** 📌
 <br/>
 <br/>
-Espero que encuentres algo interesante. No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología. 💻
+Don't hesitate to contact me if you want to collaborate on a project or just chat about technology. 💻
