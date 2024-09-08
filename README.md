@@ -27,34 +27,30 @@
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloscantero11&show_icons=true&theme=radical)](https://github.com/carloscantero11)
 
+## 🔤 languages:
 
-## 🛠️ Technologies and Tools
-Here are some technologies and tools I've been working with recently:
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com) &nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) &nbsp;
 
-```python
-languages = [
-    "Java",
-    "JavaScript",
-    "Python",
-    "HTML",
-    "CSS"
-]
+## 📚 Frameworks & Libreries:
 
-frameworks_libraries = [
-    "React",
-    "Vue.js",
-    "Node.js",
-    "Laravel",
-    "Django"
-]
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) &nbsp;
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) &nbsp;
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/) &nbsp;
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) &nbsp;
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) &nbsp;
 
-tools = [
-    "Git",
-    "VS Code",
-    "Firebase",
-    "Android Studio"
-]
-```
+## 🛠️ Tools:
+
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) &nbsp;
+[![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) &nbsp;
+[![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/) &nbsp;
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio) &nbsp;
+![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white) &nbsp;
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black) &nbsp;
+
 
 ## 🤝 Connect with me  💜
 <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/carlos-cantero-130120307/">
