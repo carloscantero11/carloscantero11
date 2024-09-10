@@ -1,10 +1,10 @@
-# 👋 Hello! 👉 I'm *Carlos Cantero* ☕  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=carloscantero11&countColorcountColor&countColor=%237B1E7B" align="right"/> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/carloscantero11?color=236ad3&style=for-the-badge&logo=github&label=Follow" align="right"/>
+# 👋 Hello! 👉 I'm *Carlos Cantero* ☕
 
 <img src="https://i.imgur.com/4qwm7Zs.png" alt="Image"/>
 
 ## 🚀 About Me
 
-<img src="https://i.imgur.com/r0Qraft.png" alt="Image" align="right"  height="250" width="320">
+<img src="https://i.imgur.com/r0Qraft.png" alt="Image" align="right" height="250" width="320"/>
 
 <br/>
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about Java or Python.
 - 📫 You can contact me at: carlitos.mcs18@gmail.com
 - 💡 "If you can imagine it, you can program it".
-
-<br/>
 
 ## 📈 GitHub Stats
 
@@ -61,4 +59,9 @@
 ---
 **I hope you find something interesting.** 📌
 <br/>
+<br/>
 **Don't hesitate to contact me if you want to collaborate on a project or just chat about technology.** 💻
+
+<br/>
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=carloscantero11&countColorcountColor&countColor=%237B1E7B" valign="center"/> &nbsp;&nbsp;&nbsp;<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/carloscantero11?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
