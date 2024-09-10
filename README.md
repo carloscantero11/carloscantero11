@@ -1,15 +1,11 @@
-# 👋 Hello! 👉 I'm *Carlos Cantero* ☕
+# 👋 Hello! 👉 I'm *Carlos Cantero* ☕  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=carloscantero11&countColorcountColor&countColor=%237B1E7B" align="right"/> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/carloscantero11?color=236ad3&style=for-the-badge&logo=github&label=Follow" align="right"/>
 
-<img src="https://i.imgur.com/EPiZtcd.png">
+<img src="https://i.imgur.com/4qwm7Zs.png" alt="Image"/>
 
 ## 🚀 About Me
 
-<a target="_blank" align="center">
-<img src="https://img.freepik.com/foto-gratis/juego-personajes-anime-esteticos_23-2151560698.jpg?t=st=1725485098~exp=1725488698~hmac=e75b2c8544a698a712cfa680cdade566471b01cea0ff486211f64521fd45bf5a&w=996" alt="Image" align="right"  height="300" width="400">
-</a>
+<img src="https://i.imgur.com/r0Qraft.png" alt="Image" align="right"  height="250" width="320">
 
-<br/>
-<br/>
 <br/>
 
 - 🔭 Looking for a job.
@@ -20,12 +16,12 @@
 - 💡 "If you can imagine it, you can program it".
 
 <br/>
-<br/>
-
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloscantero11&show_icons=true&theme=radical)](https://github.com/carloscantero11)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloscantero11&show_icons=true&theme=radical&text_color=44fff4&border_radius=25&icon_color=e0ff00&title_color=ff65fb&border_color=22fdff&bg_color=0,1c0018,3f0c37) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=carloscantero11&layout=compact&langs_count=8&theme=radical&text_color=44fff4&border_radius=25&title_color=ff65fb&border_color=22fdff&bg_color=0,1c0018,3f0c37)
 
 ## 🔤 Languages:
 
@@ -65,5 +61,4 @@
 ---
 **I hope you find something interesting.** 📌
 <br/>
-<br/>
-Don't hesitate to contact me if you want to collaborate on a project or just chat about technology. 💻
+**Don't hesitate to contact me if you want to collaborate on a project or just chat about technology.** 💻
