@@ -26,11 +26,15 @@
 
 ## 🔤 Languages:
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com) &nbsp;
+[![Java](https://img.shields.io/badge/Java-d89700?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com) &nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) &nbsp;
-[![HTML5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) &nbsp;
+[![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/) &nbsp;
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) &nbsp;
+[![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)](https://www.sqlschool.com/) &nbsp;
+[![XML](https://img.shields.io/badge/XML-f28500?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3schools.com/xml/) &nbsp;
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) &nbsp;
 
 ## 📚 Frameworks & Libreries:
 
@@ -39,17 +43,19 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/) &nbsp;
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) &nbsp;
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) &nbsp;
-![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white) &nbsp;
+[![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)](https://axios-http.com/) &nbsp;
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-005ad8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) &nbsp; 
 
 ## 🛠️ Tools:
 
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) &nbsp;
+[![Git](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) &nbsp;
 [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) &nbsp;
 [![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/) &nbsp;
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio) &nbsp;
-![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white) &nbsp;
-![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black) &nbsp;
-![Vitejs](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white) &nbsp;
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-64b037?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio) &nbsp;
+[![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white)](https://netbeans.apache.org/) &nbsp;
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)](https://unity.com/) &nbsp;
+[![Vite.js](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)](https://vitejs.dev/) &nbsp;
 
 
 ## 🤝 Connect with me  💜
@@ -63,6 +69,7 @@
 <img src="https://img.icons8.com/?size=100&id=H7MxfKOr1WFr&format=png&color=000000" height="57" width="57"></a>
 
 ---
+
 **I hope you find something interesting.** 📌
 <br/>
 **Don't hesitate to contact me if you want to collaborate on a project or just chat about technology.** 💻
