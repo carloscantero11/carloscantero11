@@ -26,25 +26,30 @@
 
 ## 🔤 Languages:
 
-[![Java](https://img.shields.io/badge/Java-d89700?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com) &nbsp;
+[![Java](https://img.shields.io/badge/Java-ee8000?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com) &nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) &nbsp;
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) &nbsp;
 [![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/) &nbsp;
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) &nbsp;
-[![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)](https://www.sqlschool.com/) &nbsp;
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com
+) &nbsp;
 [![XML](https://img.shields.io/badge/XML-f28500?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3schools.com/xml/) &nbsp;
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) &nbsp;
 
 ## 📚 Frameworks & Libreries:
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) &nbsp;
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) &nbsp;
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) &nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/) &nbsp;
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) &nbsp;
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) &nbsp;
 [![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)](https://axios-http.com/) &nbsp;
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-005ad8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) &nbsp; 
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) &nbsp;
+
 
 ## 🛠️ Tools:
 
@@ -56,6 +61,8 @@
 [![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white)](https://netbeans.apache.org/) &nbsp;
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)](https://unity.com/) &nbsp;
 [![Vite.js](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)](https://vitejs.dev/) &nbsp;
+[![Eslint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white)](https://eslint.org/) &nbsp;
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/?hl=es-419) &nbsp;
 
 
 ## 🤝 Connect with me  💜
